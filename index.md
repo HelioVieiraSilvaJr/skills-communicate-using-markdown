@@ -6,3 +6,5 @@
 ###### Linha 6
 
 Adicionando headers com Markdown
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
